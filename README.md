@@ -6,7 +6,7 @@
 
 Estudiante autodidacta de Ciberseguridad y entusiasta de la seguridad ofensiva y futuro Red teamer.
 
-![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-brightgreen?style=for-the-badge)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-brightgreen?style=for-the-badge)](https://tryhackme.com/p/SLBZ)
 
 
 ## 🛠 Skills and Software
