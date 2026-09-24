@@ -1,4 +1,4 @@
-![Banner](img/juncyberanalyst.png)
+![Banner](img/img.png)
 
 # 🇦🇷 Samuel
 
