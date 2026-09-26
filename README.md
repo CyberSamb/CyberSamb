@@ -1,6 +1,6 @@
 ![Banner](img/img.png)
 
-# 🇦🇷 Samuel
+# 🇦🇷 CyberSamb
 
 #### **Junior Cybersecurity Analyst**
 
